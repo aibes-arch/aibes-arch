@@ -12,7 +12,7 @@
 
 <!-- Profile Views Counter -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=richardcuick&label=Profile%20Views&color=9214E0&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aibes-arch&label=Profile%20Views&color=9214E0&style=flat-square" alt="Profile Views" />
 </div>
 
 ## 🧭 Richard Chikun Cui | 崔驰坤
@@ -33,7 +33,7 @@
 
 | Platform | Handle | Focus |
 |----------|--------|-------|
-| **GitHub** | `richardcuick` | Open-source projects & architecture experiments |
+| **GitHub** | `aibes-arch` | Open-source projects & architecture experiments |
 | **Primary** | `aibes` | Brand & strategy |
 | **Architecture** | `aibes.arch` | System design & tech content |
 | **Engineering** | `aibes_arch` | Code & implementation |
@@ -108,12 +108,12 @@ class TechStack:
 
 ## 🚀 Active Projects
 
-### 🛢️ [70MPa-MPD-Control-System](https://github.com/richardcuick/70MPa-MPD-Control-System)
-**Intelligent Managed Pressure Drilling Control Platform**
-> Vue3 + FastAPI + MySQL + InfluxDB + Three.js
+### 🛢️ [Drilling Process Recognition & Visualization](https://github.com/aibes-arch/DPRV)
+**Drilling Process Recognition & Visualization Module**
+> Vue3 + FastAPI + MySQL + Three.js
 
 - Real-time wellbore monitoring with WebSocket data streaming
-- PID/MPC intelligent control algorithms for choke valve automation
+- Intelligent control algorithms for choke valve automation
 - Digital twin simulation with 10+ drilling scenario models
 - 3D wellbore visualization using Three.js
 
@@ -121,7 +121,7 @@ class TechStack:
 Status: ████████████░░░░ 75% | Phase 5/8: AI Decision Module
 ```
 
-### 🤖 [AIBES-Embodied-Stack](https://github.com/richardcuick/AIBES-Embodied-Stack)
+### 🤖 [AIBES-Embodied-Stack](https://github.com/aibes-arch/Embodied-Stack)
 **Embodied AI Learning & Teleoperation Framework**
 > Python + ROS2 + PyTorch + 3D Printing
 
@@ -133,7 +133,7 @@ Status: ████████████░░░░ 75% | Phase 5/8: AI Dec
 Status: ██████░░░░░░░░░░ 35% | Phase 2/5: Hardware Integration
 ```
 
-### 🧠 [AIBES-Knowledge-Base](https://github.com/richardcuick/AIBES-Knowledge-Base)
+### 🧠 [AIBES-Knowledge-Base](https://github.com/aibes-arch/Knowledge-Base)
 **AI Engineering Knowledge Repository**
 
 - Prompt Engineering → Context Engineering → Loop Engineering → Agentic Engineering → Harness Engineering → Vibe Coding
@@ -147,14 +147,14 @@ Status: ██████░░░░░░░░░░ 35% | Phase 2/5: Hardwa
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=richardcuick&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9214E0&icon_color=785736&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardcuick&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9214E0&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aibes-arch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9214E0&icon_color=785736&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibes-arch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9214E0&text_color=C9D1D9&langs_count=8" />
 
 <!-- Streak Stats -->
-<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=richardcuick&theme=radical&hide_border=true&background=0D1117&stroke=9214E0&ring=785736&fire=9214E0&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=9214E0&sideLabels=785736&dates=C9D1D9" />
+<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=aibes-arch&theme=radical&hide_border=true&background=0D1117&stroke=9214E0&ring=785736&fire=9214E0&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=9214E0&sideLabels=785736&dates=C9D1D9" />
 
 <!-- Contribution Graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=richardcuick&theme=react-dark&hide_border=true&bg_color=0D1117&color=9214E0&line=785736&point=9214E0" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=aibes-arch&theme=react-dark&hide_border=true&bg_color=0D1117&color=9214E0&line=785736&point=9214E0" />
 
 </div>
 
@@ -168,7 +168,7 @@ graph LR
     B --> C[Q3: Intelligence]
     C --> D[Q4: Ecosystem]
 
-    A --> A1[70MPa MPD Platform v1.0]
+    A --> A1[DPRV Module v1.0]
     A --> A2[AIBES Website Launch]
     B --> B1[Digital Twin 3D Visualization]
     B --> B2[AI Control Algorithm Deployment]
@@ -180,7 +180,7 @@ graph LR
 
 | Quarter | Milestone | Deliverable |
 |---------|-----------|-------------|
-| **Q1** | Foundation | 70MPa MPD system core modules (monitoring + control) |
+| **Q1** | Foundation | DPRV core modules (monitoring + control) |
 | **Q2** | Core | Digital twin 3D visualization + AI prediction models |
 | **Q3** | Intelligence | Multi-agent decision system + embodied AI prototype |
 | **Q4** | Ecosystem | Open-source framework release + consulting cases |
@@ -246,7 +246,7 @@ richard_chikun_cui:
 | Platform | ID | QR/Link |
 |----------|-----|---------|
 | **Website** | [aibes.cn](https://aibes.cn) | 🌐 |
-| **GitHub** | `richardcuick` | ⬇️ |
+| **GitHub** | `aibes-arch` | ⬇️ |
 | **Architecture** | `aibes.arch` | 🏗️ |
 | **Engineering** | `aibes_arch` | ⚙️ |
 | **Brand** | `aibes` | 🎯 |
